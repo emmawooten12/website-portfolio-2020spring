@@ -27,27 +27,37 @@ p:first-of-type {
   color: #FFF;
   background-color: #5995DA;
 }
+#button-2 {
+  color: #5D6063;
+}
 .page {
   width: 600px;
   margin: 0 auto;
+}
+#button-2 {
+  background-color: #D55C5F;    
 }
 .call-to-action:link,
 .call-to-action:visited {
   font-style: italic;
   background-color: #EEB75A;
 }
-
 .call-to-action:hover,
 .call-to-action:visited:hover {
   background-color: #F5CF8E;
 }
-
 .call-to-action:active,
 .call-to-action:visited:active {
   background-color: #EEB75A;
 }
 a:visited:active {
+  color: red;
+}
+a:visited:active {
     color: red;
+}
+a:visited:hover {
+    color: orange;
 }
 a:link {
   color: blue;
@@ -62,9 +72,8 @@ a:hover {
 }
 a:active {
   color: red;
-  a:visited:hover {
-    color: orange;
 }
+
 p:last-of-type {
   margin-bottom: 50px;
 }
