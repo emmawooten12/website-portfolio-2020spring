@@ -1,7 +1,9 @@
 
 h1 {
   font-size: 3em;
-  -webkit-text-stroke: 1.3px #FFB81C;
+  -webkit-text-stroke: 1.7px #FFB81C;
+  margin: 10px;
+  font-variant: small-caps;
 }
 h2 {
   font-size: 2.5em;
@@ -12,6 +14,11 @@ body {
 h1, h2, p {
   text-align: center;
   color: #003594;
+  font-family: serif;
+}
+h2 {
+  margin-bottom: 25px;
+  margin-top: 150px;
 }
 p {
   margin: 30px
@@ -19,4 +26,35 @@ p {
 .centered {
   margin: 0 auto;
   display: block;
+}
+.button:link,
+.button:visited {
+  display: block;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #FFB81C;
+  font-weight: bold;
+  padding: 15px;
+  text-align: center;
+  border: 2px solid #FFB81C;
+  border-radius: 15px;
+  float: left;
+  width: 200px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color:#003594 ;
+}
+.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #5995DA;
+}
+.row {
+  display: flex;
+  justify-content: space-around;
 }
