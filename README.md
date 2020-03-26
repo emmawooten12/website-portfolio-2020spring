@@ -8,4 +8,4 @@ I am looking to improve several aspects of the site, but I am impressed with wha
 
 I will transfer this text over to a file called "FULLDRAFT.md" once I push a final website with a reflection. The reflection will become the "README.md" file.
 
-The only assets used for this site come from pdm.pitt.edu, which I have full admin access to as I am part of the club!
+The only assets used for this site come from pdm.pitt.edu, which I have full admin access to as I am part of the club! I used this as inspiration, but definitely tried to put my own take on the club and what the site should be.
