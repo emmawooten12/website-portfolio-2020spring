@@ -7,3 +7,5 @@ I created a webpage for PDM with multiple tab options in the navigation bar. It 
 I am looking to improve several aspects of the site, but I am impressed with what I have come up with to this point. First off, I want to center the navigation bar buttons. I have tried several times by using "flex" in the CSS file, but it only seems to be moving the text. Furthermore, on the "Meet the Members" page, I need to add titles and name under each picture, but I do not know how to put captions for each picture rather than just a <p> section in the .html code. I also just want to make the pages look nicer with more interesting fonts and backgrounds. I could add color borders to the pictures and more design features to each page.
 
 I will transfer this text over to a file called "FULLDRAFT.md" once I push a final website with a reflection. The reflection will become the "README.md" file.
+
+The only assets used for this site come from pdm.pitt.edu, which I have full admin access to as I am part of the club!
