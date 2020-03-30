@@ -14,14 +14,13 @@ body {
 h1, h2, p {
   text-align: center;
   color: #003594;
-  font-family: serif;
 }
 h2 {
   margin-bottom: 25px;
   margin-top: 150px;
 }
 p {
-  margin: 30px
+  margin: 10px;
 }
 .centered {
   margin: 0 auto;
