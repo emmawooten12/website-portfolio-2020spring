@@ -10,4 +10,4 @@ I will transfer this text over to a file called "FULLDRAFT.md" once I push a fin
 
 Most assets used for this site come from pdm.pitt.edu, which I have full admin access to as I am part of the club! I used this as inspiration, but definitely tried to put my own take on the club and what the site should be.
 
-The font used comes from [this site] (https://atom.io/packages/fonts) 
+The font used comes from [ this site ](https://atom.io/packages/fonts) 
