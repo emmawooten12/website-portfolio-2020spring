@@ -7,17 +7,18 @@ h1 {
   -webkit-text-stroke: 1.7px #FFB81C;
   margin: 10px;
   font-variant: small-caps;
-  font-family: sans-serif;
 }
 h2 {
   font-size: 2.5em;
-  
 }
 h3 {
   font-size: 1.75em
 }
 body {
   font-size: 1.5em;
+}
+h1, h2, h3 {
+  font-family: sans-serif;
 }
 h1, h2, h3, p {
   text-align: center;
