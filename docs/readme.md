@@ -8,4 +8,4 @@ I am impressed with what I have come up with considering the fact that coding is
 
 Something I struggled with was changing the font, and never ended up figuring it out. I am excited to have figured out how to make pictures into clickable external links on my "Our Cause" page, and made one of my nav bar buttons navigate entirely to another website to donate to the cause. 
 
-Reflection to come soon!
+Reflection can be found [ here ](https://github.com/emmawooten12/website-portfolio-2020spring/blob/master/docs/REFLECTION.md)!
