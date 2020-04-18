@@ -1,6 +1,6 @@
 # Project 3: Website Portfolio 
 
-This website is a tribute to the club I have dedicated most of my college life to. I have poured my heart and sole into Pitt Dance Marathon. I have been on the board for 3 years now, and am absolutely devastated to see our hard work from this year be destroyed by this horrible worldwide situation. However, I can see that this is much bigger than any Dance Marathon to exist, because it is affecting so many more people, so I keep reminding myself that the present situation is much more important.
+This website is a tribute to the club I have dedicated most of my college life to. I have poured my heart and soul into Pitt Dance Marathon. I have been on the board for 3 years now, and am absolutely devastated to see our hard work from this year be destroyed by this horrible worldwide situation. However, I can see that this is much bigger than any Dance Marathon to exist, because it is affecting so many more people, so I keep reminding myself that the present situation is much more important.
 
 I created a webpage for PDM with multiple tab options in the navigation bar. It explains what PDM is all about, gives a little background, has all the members, and provides links directly to our cause and actual site to donate.
 
